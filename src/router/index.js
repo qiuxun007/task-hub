@@ -21,7 +21,7 @@ const routes = [
 ]
 
 const router = createRouter({
-  history: createWebHashHistory()(),
+  history: createWebHashHistory(),
   routes
 })
 // src/router/index.js (核心片段)
